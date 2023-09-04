@@ -13,7 +13,7 @@ const useStyles = makeStyles(theme => ({
   },
  
   dragger: {
-    height:"100px",
+ 
     width: "5px",
     cursor: "ew-resize",
     padding: "4px 0 0",
